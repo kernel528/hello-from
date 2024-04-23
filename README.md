@@ -9,3 +9,6 @@ Example:
 
     $ curl 192.168.99.102
     Hello from 498ca7cb25e9 (172.17.0.2)
+
+Credits
+* Copy of pbitty/hello-from for arm64 usage.
